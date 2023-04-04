@@ -1,0 +1,15 @@
+C:\Users\tomas\Documents\Projects\.NET\Exemple\bin\Debug\net7.0\Exemple.exe
+C:\Users\tomas\Documents\Projects\.NET\Exemple\bin\Debug\net7.0\Exemple.deps.json
+C:\Users\tomas\Documents\Projects\.NET\Exemple\bin\Debug\net7.0\Exemple.runtimeconfig.json
+C:\Users\tomas\Documents\Projects\.NET\Exemple\bin\Debug\net7.0\Exemple.dll
+C:\Users\tomas\Documents\Projects\.NET\Exemple\bin\Debug\net7.0\Exemple.pdb
+C:\Users\tomas\Documents\Projects\.NET\Exemple\obj\Debug\net7.0\Exemple.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Projects\.NET\Exemple\obj\Debug\net7.0\Exemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Documents\Projects\.NET\Exemple\obj\Debug\net7.0\Exemple.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\Projects\.NET\Exemple\obj\Debug\net7.0\Exemple.AssemblyInfo.cs
+C:\Users\tomas\Documents\Projects\.NET\Exemple\obj\Debug\net7.0\Exemple.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Projects\.NET\Exemple\obj\Debug\net7.0\Exemple.dll
+C:\Users\tomas\Documents\Projects\.NET\Exemple\obj\Debug\net7.0\refint\Exemple.dll
+C:\Users\tomas\Documents\Projects\.NET\Exemple\obj\Debug\net7.0\Exemple.pdb
+C:\Users\tomas\Documents\Projects\.NET\Exemple\obj\Debug\net7.0\Exemple.genruntimeconfig.cache
+C:\Users\tomas\Documents\Projects\.NET\Exemple\obj\Debug\net7.0\ref\Exemple.dll
